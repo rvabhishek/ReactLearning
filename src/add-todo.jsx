@@ -9,6 +9,7 @@ class AddTodo extends Component {
   handleSubmit = () => {
     // your code here
   }
+
   render() {
     return (
       <div className="row">
